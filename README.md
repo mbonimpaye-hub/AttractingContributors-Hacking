@@ -16,7 +16,7 @@ Thank you in advance!
 10. New York
 11. Yokohama
 12. California
-
+13. Nusa Penida, Bali
 
 
 
