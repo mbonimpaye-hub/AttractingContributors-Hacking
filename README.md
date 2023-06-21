@@ -36,7 +36,7 @@ You can insert any name you prefer, whether it's a real name or an anonymous des
 5. Maika Yamamoto
 6. Nikola Tesla
 7. Shohei Ohtani
-8. (put your text)
+8. Makoto Nagao
 9. (put your text)
 10. (put your text)
 
