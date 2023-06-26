@@ -25,6 +25,7 @@ To complete the assignment, please do the following:
 - GR YARIS (TOYOTA)
 - Midget (Daihatsu)
 - Ford Mustang (Ford)
+- N-BOX (Honda)
 - Vitz (TOYOTA) my car!!
 - Fit(Honda)
 - Cayenne (porsche)
