@@ -28,6 +28,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/930#discussion-53
 6. " The apple doesn’t fall far from the tree."
 7. "Two can keep a scret if one of them is dead"
 8. "Face the pain of dicipline or the pain of regret"
+9. "A ship in harbor is safe, but that is not what ships are built for"
 
 
 
