@@ -17,6 +17,7 @@ Thank you in advance!
 11. Yokohama
 12. California
 13. Nusa Penida, Bali
+14. Zanzibar
 
 
 
