@@ -30,4 +30,5 @@ To complete the assignment, please do the following:
 - Fit(Honda)
 - Cayenne (porsche)
 - Lamborghini Aventator
+- Land Cruiser (TOYOTA)
 
