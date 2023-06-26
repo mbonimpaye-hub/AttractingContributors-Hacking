@@ -26,5 +26,10 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/930#discussion-53
 4. "If you seek peace, prepare for war"
 5. "All is well that ends well"
 6. " The apple doesn’t fall far from the tree."
-7. "Where there’s a will, there’s a way"
+7. "Two can keep a scret if one of them is dead"
+8. "A Bird in the Hand is Worth Two in the Bush"
+9. "Face the pain of dicipline or the pain of regret"
+10. "A ship in harbor is safe, but that is not what ships are built for"
+11. "Where there’s a will, there’s a way"
+
 
