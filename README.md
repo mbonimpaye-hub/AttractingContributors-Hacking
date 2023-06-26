@@ -31,5 +31,6 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/930#discussion-53
 9. "Face the pain of dicipline or the pain of regret"
 10. "A ship in harbor is safe, but that is not what ships are built for"
 11. "Where there’s a will, there’s a way"
+12. "What a mind can conceive, it can achieve"
 
 
